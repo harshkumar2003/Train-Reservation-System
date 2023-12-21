@@ -1,0 +1,10 @@
+{
+    "terminal.explorerKind": "external",
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.py": "python",
+        ".c": "c",
+        "*.js": "javascript",
+        "iostream": "cpp"
+    }
+}

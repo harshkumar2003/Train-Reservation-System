@@ -1,0 +1,4 @@
+12846 delhi mumbai Sleeper 750 3A 1400 2A 2000 1A 3000
+12856 delhi patna Sleeper 540 3A 1450 2A 2500 1A 3000
+12866 delhi kolkata Sleeper 650 3A 1600 2A 2500 1A 3500
+12876 delhi ranchi Sleeper 900 3A 1780 2A 2500 1A 3600
